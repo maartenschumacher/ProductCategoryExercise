@@ -1,0 +1,24 @@
+{
+  "name": "Personal Care",
+  "image": "https://eco-business.imgix.net/uploads/ebmedia/fileuploads/shutterstock_130479578.jpg?fit=crop&h=960&ixlib=django-1.2.0&w=1440",
+  "subCategories": [
+    {
+      "name": "Shampoo",
+      "id": "shampo--o",
+      "productIds": [
+        123123,
+        123123,
+        123123
+      ]
+    },
+    {
+      "name": "Handwash",
+      "id": "hand-wash",
+      "productIds": [
+        123123,
+        123123,
+        123123
+      ]
+    }
+  ]
+}

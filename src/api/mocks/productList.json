@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Resurrection Handwash",
+    "image": "https://media-services.digital-rb.com/s3/live-productcatalogue/sys-master/images/hc3/hce/8837018124318/Dettol%20Babel%20HW_Original2.png",
+    "brand": {
+      "name": "Aesop"
+    },
+    "Price": 39.99
+  },
+  {
+    "name": "Marvis Whitening mint tooth paste",
+    "image": "https://quantumlabs.com/images/thumbs/0012770_crest-toothpaste-85-oz-patient-size_445.jpeg",
+    "brand": {
+      "name": "Marvis"
+    },
+    "Price": 9.95
+  }
+]
